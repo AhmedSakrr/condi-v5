@@ -9,3 +9,5 @@ zxcr9999's skidded source. i laughed a lot reading this skid work. meowy christm
 - make a method named tcplegit thats just ack
 - sell all this shit for $100
 - gets leaked after first sale
+### Info
+I leaked this for educational purposes only.
