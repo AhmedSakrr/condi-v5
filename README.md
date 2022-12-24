@@ -1,5 +1,5 @@
 # condi v5
-zxcr9999's skidded source. i laughed a lot reading this skid work.
+zxcr9999's skidded source. i laughed a lot reading this skid work. meowy christmas zxcr!!!
 ## zxcr9999's work:
 - take the customer botnet that hamlog sold
 - remove selfrep
